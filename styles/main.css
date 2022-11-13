@@ -76,6 +76,9 @@ body {
   display: inline-block;
   font-size: 1.8rem;
 }
+.nav-link__item:hover{
+  cursor: pointer;
+}
 
 .nav-link__item a {
   color: var(--Primary);
