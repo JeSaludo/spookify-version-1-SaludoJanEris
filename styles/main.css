@@ -179,7 +179,7 @@ input[type="submit"]:hover {
   margin: 10rem auto 13rem;
   text-align: center;
   width: 25%;
-
+  filter: drop-shadow(2px 3px 10px rgba(0, 0, 0, 0.396));
 }
 
 .design {
@@ -220,6 +220,7 @@ input[type="submit"]:hover {
 
 .stories-title--paramdam {
   margin-bottom: 20px;
+ 
 }
 
 .stories-description--paramdam {
@@ -263,6 +264,7 @@ input[type="submit"]:hover {
 
 .stories-title--senyales {
   margin-bottom: 20px;
+
 }
 
 
