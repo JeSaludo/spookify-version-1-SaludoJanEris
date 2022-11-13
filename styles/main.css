@@ -137,12 +137,16 @@ p {
   font-size: 2.6rem;
   font-family: var(--ff-poppins);
   font-weight: 600;
+  
 }
 
 .nav-brand span {
   color: var(--Accent);
+  
 }
-
+.hero__header{
+  letter-spacing: 8px;
+}
 .hero__sub-header {
   width: 40%;
   margin: 20px;
