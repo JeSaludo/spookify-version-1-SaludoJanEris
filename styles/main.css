@@ -345,7 +345,7 @@ input[type="submit"]:hover {
   height: 50px;
 }
 
-.footer__cto {
+.footer__credits {
   text-align: center;
   color: var(--clr-Neutral-White);
   margin-top: 20px;
